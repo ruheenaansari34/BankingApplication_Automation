@@ -63,7 +63,7 @@ public class TestScript02 {
 
     /**
      * 
-     * @author Krishna Rungta
+     * @author Ruheena Ansari
      *        Test Script 02
      *        ************** 
      *        This method will perform following Test Steps

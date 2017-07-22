@@ -12,7 +12,7 @@ import org.openqa.selenium.firefox.FirefoxProfile;
 
 /**
  * 
- * @author Krishna Rungta
+ * @author Ruheena Ansari
  *         This script uses Excel to parameterize the Script
  */
 
