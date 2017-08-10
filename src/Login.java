@@ -20,7 +20,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
           4) Click Login
  */
 
-public class TestScript01 {
+public class Login {
 
     
 
