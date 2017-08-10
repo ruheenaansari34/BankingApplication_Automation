@@ -1,6 +1,3 @@
-/*
- Script for Day 3
- */
 
 import java.io.File;
 import java.util.concurrent.TimeUnit;
@@ -16,7 +13,7 @@ import org.openqa.selenium.firefox.FirefoxProfile;
  *         This script uses Excel to parameterize the Script
  */
 
-public class TestScript03 {
+public class IncorrectLogin {
 
     static WebDriver driver; // Selenium control driver
     private static String baseUrl; // baseUrl of Website Guru99
@@ -43,6 +40,7 @@ public class TestScript03 {
      * 
      * @throws Exception
      */
+	
     public static void main(String[] args) throws Exception {
 	// Read test data from excel file
     // Method 	getDataFromExcel is defined in class Util
