@@ -1,8 +1,3 @@
-/*Script for Day 4
- */
-
-
-
 
 import static org.junit.Assert.assertEquals;
 
@@ -27,7 +22,7 @@ import org.testng.annotations.Test;
  * Parameterization using TestNG
  * 
  */
-public class TestScript04 {
+public class ParameterizationUsingTestNG {
 
 	private WebDriver driver; // Selenium control driver
 	private String baseUrl; // baseUrl of website Guru99
@@ -95,7 +90,7 @@ public class TestScript04 {
 		driver.findElement(By.name("btnLogin")).click();
 
 		// delay some seconds
-		// Use this statement if your internet speed is slow
+		// Use this statement if the internet speed is slow
 		// driver.manage().timeouts()
 		// .implicitlyWait(Util.WAIT_TIME, TimeUnit.SECONDS);
 
