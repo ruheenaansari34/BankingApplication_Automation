@@ -25,7 +25,7 @@ import org.testng.annotations.Test;
  * The script uses TestNG
  * 
  */
-public class TestScript05 {
+public class UsingDataProvider {
 
 	private WebDriver driver; // Selenium control driver
 	private String baseUrl; // baseUrl of website Guru99
