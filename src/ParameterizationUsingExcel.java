@@ -13,7 +13,7 @@ import org.openqa.selenium.firefox.FirefoxProfile;
  *         This script uses Excel to parameterize the Script
  */
 
-public class IncorrectLogin {
+public class ParameterizationUsingExcel {
 
     static WebDriver driver; // Selenium control driver
     private static String baseUrl; // baseUrl of Website Guru99
